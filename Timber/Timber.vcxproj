@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{72813904-8FC3-47AD-8877-7223371E42E3}</ProjectGuid>
+    <ProjectGuid>{a871eec6-5209-4d9b-a322-53f744d0a8b8}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>HelloSFML</RootNamespace>
+    <RootNamespace>Timber</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
